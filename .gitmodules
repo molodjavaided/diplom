@@ -1,0 +1,6 @@
+[submodule "diplomClient"]
+	path = diplomClient
+	url = https://github.com/molodjavaided/diplomClient.git
+[submodule "diplomServer"]
+	path = diplomServer
+	url = https://github.com/molodjavaided/diplomServer.git
